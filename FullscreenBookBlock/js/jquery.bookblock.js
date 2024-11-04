@@ -8,6 +8,8 @@
  * Copyright 2012, Codrops
  * http://www.codrops.com
  */
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 ;
 (function($, window, undefined) {
 

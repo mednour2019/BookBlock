@@ -9,6 +9,7 @@
  * 
  * Requires: 1.2.2+
  */
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 (function($) {
 
