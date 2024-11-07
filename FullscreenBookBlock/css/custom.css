@@ -260,3 +260,18 @@ a:hover {
 		font-size: 75%;
 	}
 }
+.prtf-link{
+	color: white!important;
+}
+.icn-prtf{
+	width: 20px !important;
+	height: 20px !important;
+	border-radius: 50% !important;
+    overflow: hidden !important;
+    align-items: center !important;
+    object-fit: cover !important;
+
+}
+.prtf-link:hover{
+background-color: #555 !important;
+}
